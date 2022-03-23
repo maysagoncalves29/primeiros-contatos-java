@@ -5,4 +5,4 @@
 
 --> Não usei a IDE Eclipse por preferência a VS Code;
 
-
+## Calculadora de números inteiros:
