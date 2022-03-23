@@ -8,6 +8,7 @@ public class calculadora {
         Scanner scan = new Scanner(System.in);
 
         int a, b;
+        float c;
 
         System.out.println("Digite o primeiro valor: ");
         a = scan.nextInt();
@@ -33,8 +34,8 @@ public class calculadora {
     public static int multiplicacao(int a, int b) {
         return a*b;
     }
-    public static double divisao(int a, int b) {
-        return a/b; 
+    public static double divisao(int a, double c) {
+        return a/c; 
     }
 
 
